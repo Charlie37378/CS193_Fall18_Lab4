@@ -3,7 +3,7 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 Read Read Charlie.
 // Under this line, describe what the command 'git fetch' does
-
+After we made a change on the webpage of GitHub, if we want to make the changes show on our local machine, we use git fetch to get information or changes we made on remote server.
 
 Task 2:
 
