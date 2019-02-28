@@ -16,7 +16,7 @@ Task 3:
 Write something into branch-A, this is intimidating.
 
 // Under this line, write a message to yourself from the branch 'branch-B'
-
+Hope this will work, this one will finally merge with the content I made in branch-A.
 // Under this line, write a message to yourself from the branch 'branch-C'
 
 // END OF LAB 4
