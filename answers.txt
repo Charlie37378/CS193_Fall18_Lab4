@@ -8,6 +8,7 @@ After we made a change on the webpage of GitHub, if we want to make the changes 
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
+Git commit is more like a save button in the game, after we commit a change the system formally record the changes we made. Git push is like to let the remote server know what we committed. Push all of the changes to the remote server.
 
 Task 3:
 
