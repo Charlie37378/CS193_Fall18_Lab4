@@ -3,12 +3,12 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 Read Read Charlie.
 // Under this line, describe what the command 'git fetch' does
-After we made a change on the webpage of GitHub, if we want to make the changes show on our local machine, we use git fetch to get information or changes we made on remote server.
+After changes were made on the remote server of GitHub, if we want to know what changes were made on remote server, we use git fetch to get this information.
 
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
-Git commit is more like a save button in the game, after we commit a change the system formally record the changes we made. Git push is like to let the remote server know what we committed. Push all of the changes to the remote server.
+Git commit is more like a save button in the game, after we commit a change the local system formally record the changes we made. Git push to let the remote server know what we committed, push all of the changes we made to the remote server and changes the file on remote server.
 
 Task 3:
 
