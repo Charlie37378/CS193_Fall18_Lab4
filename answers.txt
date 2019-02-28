@@ -12,6 +12,7 @@ Task 2:
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
+Write something into branch-A, this is intimidating.
 
 // Under this line, write a message to yourself from the branch 'branch-B'
 
