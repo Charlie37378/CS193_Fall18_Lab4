@@ -13,6 +13,7 @@ Git commit is more like a save button in the game, after we commit a change the 
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
+Write something into branch-A, this is intimidating.
 
 // Under this line, write a message to yourself from the branch 'branch-B'
 
